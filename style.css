@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+body{
+    background-color: #000000;
+    margin: 0%;
+    padding: 0%;
+}
+.allDiv{
+    display: flex;
+    justify-content: center;
+}
+.inputDiv{
+    display: flex;
+    justify-content: center;
+    background-color: #fefffe;
+    font-family: 'Orbitron', sans-serif;
+    font-size: 40px;
+    width: 460px;
+    border-radius: 11px;
+    padding: 18px;
+}
+.button{
+    width: 5em;
+    height: 5em;
+    background-color: #fefffe;
+    font-family: 'Zen Dots', cursive;
+    font-weight: bold;
+    font-size: 25px;
+    border-radius: 8%;
+}
+.button:hover{
+    background-color: #d8d8d8;
+}
+.forPlus{
+    display: flex;
+}
+.forWhole{
+    display: flex;
+}
+#plus{
+    width: 5em;
+    height: 10em;
+    border-radius: 11px
+}
+.btnDiv{
+    display: flex;
+}
+#AC:hover{
+    background-color: #ff6600;
+}
+#equal:hover{
+    background-color: greenyellow;
+}
+#backspace{
+    background-color: #ff6600;
+}
+#backspace:hover{
+    background-color: #ff0000;
+}
