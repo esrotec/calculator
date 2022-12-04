@@ -74,10 +74,11 @@ body{
 {
     .inputDiv {
         width: 161px;
+        height: 35px;
     }
     .button {
         width: 2em;
-        height: 4em;
+        height: 3em;
         font-size: 25px;
         font-family: 'Oswald', sans-serif;
     }
@@ -86,7 +87,7 @@ body{
     }
     #plus {
         width: 2em;
-        height: 8em;
+        height: 6em;
     }
 }
 
