@@ -57,3 +57,16 @@ body{
 #backspace:hover{
     background-color: #ff0000;
 }
+
+@media only screen and (min-width:0px) and (max-width:1080px)
+{
+    .inputDiv {
+        width: 260px;
+    }
+    .button {
+        width: 3em;
+    }
+    #plus {
+        width: 3em;
+    }
+}
