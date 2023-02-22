@@ -75,6 +75,7 @@ body{
     .inputDiv {
         width: 161px;
         height: 35px;
+        font-size: 100%;
     }
     .button {
         width: 2em;
