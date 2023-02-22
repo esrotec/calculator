@@ -76,6 +76,7 @@ body{
         width: 161px;
         height: 35px;
         font-size: 100%;
+        border-radius: 7px;
     }
     .button {
         width: 2em;
